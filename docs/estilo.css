@@ -1,0 +1,163 @@
+
+body{
+    background-color: #d9d9d9;
+    text-align: center;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Class*/
+
+.flor{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blueviolet;
+    margin: center;
+    font-size: 65px;
+    
+}
+  
+
+
+.tam{
+   float: left;
+   margin-right: 15px;
+   display: flex;
+   gap: 200px;
+   
+}
+
+
+.imagem0{
+    width: 300px;
+    height: auto;
+    
+}
+
+
+.ets{
+    color: rgb(97, 0, 187);   /* cor do texto */
+    text-decoration: none;    /* remove sublinhado */
+    padding: 5px;        /* dá um pouco de espaço */
+    font-size: 16px;           /* tamanho de fonte válido */
+    margin: 5px;
+    display: inline-block;  
+    
+}
+.links{
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.247);
+    background-color: rgb(221, 203, 238);
+    width: 750px;
+    margin: auto;
+    padding-right: 30px;
+   
+}
+
+    
+
+.imagem1{
+  
+    width: 600px; 
+    height: auto;
+    float: right;
+     display: flex;
+     border-radius: 15px ;
+    
+}
+
+.apresentação{
+    color:  #8358e9fd ;
+    text-align:center ;
+    margin: 5px;
+
+ 
+    
+}
+.titulo1{
+  color: #8358e9fd;
+  text-align: center;
+}
+
+
+
+
+.decoration{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.melhor{
+    color: #8358e9fd;
+    padding: 10px 5px;
+    text-decoration:underline;
+   
+}
+
+.falta{
+     color: #8358e9fd;
+    padding: 10px 5px;
+    text-decoration:underline;
+}
+
+
+
+.bum{
+     color: #8358e9fd;
+    padding: 10px 5px;
+    text-decoration:underline;
+}
+.hiper{
+     color: #8358e9fd;
+    padding: 10px 5px;
+    text-decoration:underline;
+}
+   .telefone{
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+   }
+
+
+.contato{
+  margin: auto;
+ width: 500px;
+  height: 400px;
+  background-color: #be85f3;
+  border-radius: 10px;
+  color: rgb(250, 250, 250);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.445);
+  font: normal 20pt Gill arial;
+}
+
+
+
+
+/*pagina 2*/
+
+.rose{
+   
+   width: 1300px;
+   height: auto;
+    border-radius: 15px;
+}
+
+.titulo2{
+    color:rgb(141, 75, 202)
+}
+
+
+
+/* Produto*/
+
+.produto{
+width: 500px;
+height: auto;
+border-radius: 15px;
+
+
+}
+
+.lista{
+color: #8f2ee9;
+text-decoration: none;
+font: normal 11pt arial;
+}
