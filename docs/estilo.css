@@ -1,15 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap');
 
 body{
     background-color: #d9d9d9;
     text-align: center;
     color: black;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-family: 'Libre Baskerville', serif;
 }
 
 /*Class*/
 
 .flor{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: blueviolet;
     margin: center;
     font-size: 65px;
@@ -82,7 +82,6 @@ body{
 
 
 .decoration{
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .melhor{
@@ -112,7 +111,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
    .telefone{
     color: blueviolet;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
 
    }
 
@@ -125,7 +124,6 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   border-radius: 10px;
   color: rgb(250, 250, 250);
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.445);
-  font: normal 20pt Gill arial;
 }
 
 
@@ -149,7 +147,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 /* Produto*/
 
 .produto{
-width: 500px;
+width: 300px;
 height: auto;
 border-radius: 15px;
 
@@ -157,7 +155,6 @@ border-radius: 15px;
 }
 
 .lista{
-color: #8f2ee9;
+color: #000000;
 text-decoration: none;
-font: normal 11pt arial;
-}
+    }
